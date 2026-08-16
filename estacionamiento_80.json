@@ -1,0 +1,964 @@
+{
+  "espacios": {
+    "ESP-C01-01": {
+      "id": "ESP-C01-01",
+      "columna": 1,
+      "numero": 1,
+      "distanciaDetectada": 58,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46825
+      }
+    },
+    "ESP-C01-02": {
+      "id": "ESP-C01-02",
+      "columna": 1,
+      "numero": 2,
+      "distanciaDetectada": 93,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46821999999999
+      }
+    },
+    "ESP-C01-03": {
+      "id": "ESP-C01-03",
+      "columna": 1,
+      "numero": 3,
+      "distanciaDetectada": 111,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46818999999999
+      }
+    },
+    "ESP-C01-04": {
+      "id": "ESP-C01-04",
+      "columna": 1,
+      "numero": 4,
+      "distanciaDetectada": 35,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46816
+      }
+    },
+    "ESP-C01-05": {
+      "id": "ESP-C01-05",
+      "columna": 1,
+      "numero": 5,
+      "distanciaDetectada": 127,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46812999999999
+      }
+    },
+    "ESP-C01-06": {
+      "id": "ESP-C01-06",
+      "columna": 1,
+      "numero": 6,
+      "distanciaDetectada": 109,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46809999999999
+      }
+    },
+    "ESP-C01-07": {
+      "id": "ESP-C01-07",
+      "columna": 1,
+      "numero": 7,
+      "distanciaDetectada": 114,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46807
+      }
+    },
+    "ESP-C01-08": {
+      "id": "ESP-C01-08",
+      "columna": 1,
+      "numero": 8,
+      "distanciaDetectada": 105,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46803999999999
+      }
+    },
+    "ESP-C01-09": {
+      "id": "ESP-C01-09",
+      "columna": 1,
+      "numero": 9,
+      "distanciaDetectada": 53,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46800999999999
+      }
+    },
+    "ESP-C01-10": {
+      "id": "ESP-C01-10",
+      "columna": 1,
+      "numero": 10,
+      "distanciaDetectada": 103,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46798
+      }
+    },
+    "ESP-C01-11": {
+      "id": "ESP-C01-11",
+      "columna": 1,
+      "numero": 11,
+      "distanciaDetectada": 36,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46794999999999
+      }
+    },
+    "ESP-C01-12": {
+      "id": "ESP-C01-12",
+      "columna": 1,
+      "numero": 12,
+      "distanciaDetectada": 52,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46791999999999
+      }
+    },
+    "ESP-C01-13": {
+      "id": "ESP-C01-13",
+      "columna": 1,
+      "numero": 13,
+      "distanciaDetectada": 73,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46789
+      }
+    },
+    "ESP-C01-14": {
+      "id": "ESP-C01-14",
+      "columna": 1,
+      "numero": 14,
+      "distanciaDetectada": 68,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46785999999999
+      }
+    },
+    "ESP-C01-15": {
+      "id": "ESP-C01-15",
+      "columna": 1,
+      "numero": 15,
+      "distanciaDetectada": 167,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46782999999999
+      }
+    },
+    "ESP-C01-16": {
+      "id": "ESP-C01-16",
+      "columna": 1,
+      "numero": 16,
+      "distanciaDetectada": 67,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.4678
+      }
+    },
+    "ESP-C01-17": {
+      "id": "ESP-C01-17",
+      "columna": 1,
+      "numero": 17,
+      "distanciaDetectada": 164,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46776999999999
+      }
+    },
+    "ESP-C01-18": {
+      "id": "ESP-C01-18",
+      "columna": 1,
+      "numero": 18,
+      "distanciaDetectada": 194,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46773999999999
+      }
+    },
+    "ESP-C01-19": {
+      "id": "ESP-C01-19",
+      "columna": 1,
+      "numero": 19,
+      "distanciaDetectada": 43,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46771
+      }
+    },
+    "ESP-C01-20": {
+      "id": "ESP-C01-20",
+      "columna": 1,
+      "numero": 20,
+      "distanciaDetectada": 162,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01232,
+        "longitud": -79.46767999999999
+      }
+    },
+    "ESP-C02-01": {
+      "id": "ESP-C02-01",
+      "columna": 2,
+      "numero": 1,
+      "distanciaDetectada": 169,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46825
+      }
+    },
+    "ESP-C02-02": {
+      "id": "ESP-C02-02",
+      "columna": 2,
+      "numero": 2,
+      "distanciaDetectada": 84,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46821999999999
+      }
+    },
+    "ESP-C02-03": {
+      "id": "ESP-C02-03",
+      "columna": 2,
+      "numero": 3,
+      "distanciaDetectada": 103,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46818999999999
+      }
+    },
+    "ESP-C02-04": {
+      "id": "ESP-C02-04",
+      "columna": 2,
+      "numero": 4,
+      "distanciaDetectada": 101,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46816
+      }
+    },
+    "ESP-C02-05": {
+      "id": "ESP-C02-05",
+      "columna": 2,
+      "numero": 5,
+      "distanciaDetectada": 142,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46812999999999
+      }
+    },
+    "ESP-C02-06": {
+      "id": "ESP-C02-06",
+      "columna": 2,
+      "numero": 6,
+      "distanciaDetectada": 169,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46809999999999
+      }
+    },
+    "ESP-C02-07": {
+      "id": "ESP-C02-07",
+      "columna": 2,
+      "numero": 7,
+      "distanciaDetectada": 92,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46807
+      }
+    },
+    "ESP-C02-08": {
+      "id": "ESP-C02-08",
+      "columna": 2,
+      "numero": 8,
+      "distanciaDetectada": 93,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46803999999999
+      }
+    },
+    "ESP-C02-09": {
+      "id": "ESP-C02-09",
+      "columna": 2,
+      "numero": 9,
+      "distanciaDetectada": 49,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46800999999999
+      }
+    },
+    "ESP-C02-10": {
+      "id": "ESP-C02-10",
+      "columna": 2,
+      "numero": 10,
+      "distanciaDetectada": 161,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46798
+      }
+    },
+    "ESP-C02-11": {
+      "id": "ESP-C02-11",
+      "columna": 2,
+      "numero": 11,
+      "distanciaDetectada": 68,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46794999999999
+      }
+    },
+    "ESP-C02-12": {
+      "id": "ESP-C02-12",
+      "columna": 2,
+      "numero": 12,
+      "distanciaDetectada": 38,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46791999999999
+      }
+    },
+    "ESP-C02-13": {
+      "id": "ESP-C02-13",
+      "columna": 2,
+      "numero": 13,
+      "distanciaDetectada": 97,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46789
+      }
+    },
+    "ESP-C02-14": {
+      "id": "ESP-C02-14",
+      "columna": 2,
+      "numero": 14,
+      "distanciaDetectada": 94,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46785999999999
+      }
+    },
+    "ESP-C02-15": {
+      "id": "ESP-C02-15",
+      "columna": 2,
+      "numero": 15,
+      "distanciaDetectada": 168,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46782999999999
+      }
+    },
+    "ESP-C02-16": {
+      "id": "ESP-C02-16",
+      "columna": 2,
+      "numero": 16,
+      "distanciaDetectada": 132,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.4678
+      }
+    },
+    "ESP-C02-17": {
+      "id": "ESP-C02-17",
+      "columna": 2,
+      "numero": 17,
+      "distanciaDetectada": 48,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46776999999999
+      }
+    },
+    "ESP-C02-18": {
+      "id": "ESP-C02-18",
+      "columna": 2,
+      "numero": 18,
+      "distanciaDetectada": 186,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46773999999999
+      }
+    },
+    "ESP-C02-19": {
+      "id": "ESP-C02-19",
+      "columna": 2,
+      "numero": 19,
+      "distanciaDetectada": 62,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46771
+      }
+    },
+    "ESP-C02-20": {
+      "id": "ESP-C02-20",
+      "columna": 2,
+      "numero": 20,
+      "distanciaDetectada": 70,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01237,
+        "longitud": -79.46767999999999
+      }
+    },
+    "ESP-C03-01": {
+      "id": "ESP-C03-01",
+      "columna": 3,
+      "numero": 1,
+      "distanciaDetectada": 188,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46825
+      }
+    },
+    "ESP-C03-02": {
+      "id": "ESP-C03-02",
+      "columna": 3,
+      "numero": 2,
+      "distanciaDetectada": 116,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46821999999999
+      }
+    },
+    "ESP-C03-03": {
+      "id": "ESP-C03-03",
+      "columna": 3,
+      "numero": 3,
+      "distanciaDetectada": 164,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46818999999999
+      }
+    },
+    "ESP-C03-04": {
+      "id": "ESP-C03-04",
+      "columna": 3,
+      "numero": 4,
+      "distanciaDetectada": 22,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46816
+      }
+    },
+    "ESP-C03-05": {
+      "id": "ESP-C03-05",
+      "columna": 3,
+      "numero": 5,
+      "distanciaDetectada": 99,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46812999999999
+      }
+    },
+    "ESP-C03-06": {
+      "id": "ESP-C03-06",
+      "columna": 3,
+      "numero": 6,
+      "distanciaDetectada": 179,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46809999999999
+      }
+    },
+    "ESP-C03-07": {
+      "id": "ESP-C03-07",
+      "columna": 3,
+      "numero": 7,
+      "distanciaDetectada": 177,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46807
+      }
+    },
+    "ESP-C03-08": {
+      "id": "ESP-C03-08",
+      "columna": 3,
+      "numero": 8,
+      "distanciaDetectada": 128,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46803999999999
+      }
+    },
+    "ESP-C03-09": {
+      "id": "ESP-C03-09",
+      "columna": 3,
+      "numero": 9,
+      "distanciaDetectada": 96,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46800999999999
+      }
+    },
+    "ESP-C03-10": {
+      "id": "ESP-C03-10",
+      "columna": 3,
+      "numero": 10,
+      "distanciaDetectada": 36,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46798
+      }
+    },
+    "ESP-C03-11": {
+      "id": "ESP-C03-11",
+      "columna": 3,
+      "numero": 11,
+      "distanciaDetectada": 50,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46794999999999
+      }
+    },
+    "ESP-C03-12": {
+      "id": "ESP-C03-12",
+      "columna": 3,
+      "numero": 12,
+      "distanciaDetectada": 109,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46791999999999
+      }
+    },
+    "ESP-C03-13": {
+      "id": "ESP-C03-13",
+      "columna": 3,
+      "numero": 13,
+      "distanciaDetectada": 175,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46789
+      }
+    },
+    "ESP-C03-14": {
+      "id": "ESP-C03-14",
+      "columna": 3,
+      "numero": 14,
+      "distanciaDetectada": 53,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46785999999999
+      }
+    },
+    "ESP-C03-15": {
+      "id": "ESP-C03-15",
+      "columna": 3,
+      "numero": 15,
+      "distanciaDetectada": 162,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46782999999999
+      }
+    },
+    "ESP-C03-16": {
+      "id": "ESP-C03-16",
+      "columna": 3,
+      "numero": 16,
+      "distanciaDetectada": 47,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.4678
+      }
+    },
+    "ESP-C03-17": {
+      "id": "ESP-C03-17",
+      "columna": 3,
+      "numero": 17,
+      "distanciaDetectada": 75,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46776999999999
+      }
+    },
+    "ESP-C03-18": {
+      "id": "ESP-C03-18",
+      "columna": 3,
+      "numero": 18,
+      "distanciaDetectada": 61,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46773999999999
+      }
+    },
+    "ESP-C03-19": {
+      "id": "ESP-C03-19",
+      "columna": 3,
+      "numero": 19,
+      "distanciaDetectada": 167,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46771
+      }
+    },
+    "ESP-C03-20": {
+      "id": "ESP-C03-20",
+      "columna": 3,
+      "numero": 20,
+      "distanciaDetectada": 174,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01242,
+        "longitud": -79.46767999999999
+      }
+    },
+    "ESP-C04-01": {
+      "id": "ESP-C04-01",
+      "columna": 4,
+      "numero": 1,
+      "distanciaDetectada": 159,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46825
+      }
+    },
+    "ESP-C04-02": {
+      "id": "ESP-C04-02",
+      "columna": 4,
+      "numero": 2,
+      "distanciaDetectada": 118,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46821999999999
+      }
+    },
+    "ESP-C04-03": {
+      "id": "ESP-C04-03",
+      "columna": 4,
+      "numero": 3,
+      "distanciaDetectada": 180,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46818999999999
+      }
+    },
+    "ESP-C04-04": {
+      "id": "ESP-C04-04",
+      "columna": 4,
+      "numero": 4,
+      "distanciaDetectada": 88,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46816
+      }
+    },
+    "ESP-C04-05": {
+      "id": "ESP-C04-05",
+      "columna": 4,
+      "numero": 5,
+      "distanciaDetectada": 160,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46812999999999
+      }
+    },
+    "ESP-C04-06": {
+      "id": "ESP-C04-06",
+      "columna": 4,
+      "numero": 6,
+      "distanciaDetectada": 63,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46809999999999
+      }
+    },
+    "ESP-C04-07": {
+      "id": "ESP-C04-07",
+      "columna": 4,
+      "numero": 7,
+      "distanciaDetectada": 35,
+      "estado": "ocupado",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46807
+      }
+    },
+    "ESP-C04-08": {
+      "id": "ESP-C04-08",
+      "columna": 4,
+      "numero": 8,
+      "distanciaDetectada": 127,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46803999999999
+      }
+    },
+    "ESP-C04-09": {
+      "id": "ESP-C04-09",
+      "columna": 4,
+      "numero": 9,
+      "distanciaDetectada": 167,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46800999999999
+      }
+    },
+    "ESP-C04-10": {
+      "id": "ESP-C04-10",
+      "columna": 4,
+      "numero": 10,
+      "distanciaDetectada": 88,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46798
+      }
+    },
+    "ESP-C04-11": {
+      "id": "ESP-C04-11",
+      "columna": 4,
+      "numero": 11,
+      "distanciaDetectada": 97,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46794999999999
+      }
+    },
+    "ESP-C04-12": {
+      "id": "ESP-C04-12",
+      "columna": 4,
+      "numero": 12,
+      "distanciaDetectada": 149,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46791999999999
+      }
+    },
+    "ESP-C04-13": {
+      "id": "ESP-C04-13",
+      "columna": 4,
+      "numero": 13,
+      "distanciaDetectada": 121,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46789
+      }
+    },
+    "ESP-C04-14": {
+      "id": "ESP-C04-14",
+      "columna": 4,
+      "numero": 14,
+      "distanciaDetectada": 188,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46785999999999
+      }
+    },
+    "ESP-C04-15": {
+      "id": "ESP-C04-15",
+      "columna": 4,
+      "numero": 15,
+      "distanciaDetectada": 126,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46782999999999
+      }
+    },
+    "ESP-C04-16": {
+      "id": "ESP-C04-16",
+      "columna": 4,
+      "numero": 16,
+      "distanciaDetectada": 194,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.4678
+      }
+    },
+    "ESP-C04-17": {
+      "id": "ESP-C04-17",
+      "columna": 4,
+      "numero": 17,
+      "distanciaDetectada": 164,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46776999999999
+      }
+    },
+    "ESP-C04-18": {
+      "id": "ESP-C04-18",
+      "columna": 4,
+      "numero": 18,
+      "distanciaDetectada": 188,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46773999999999
+      }
+    },
+    "ESP-C04-19": {
+      "id": "ESP-C04-19",
+      "columna": 4,
+      "numero": 19,
+      "distanciaDetectada": 87,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46771
+      }
+    },
+    "ESP-C04-20": {
+      "id": "ESP-C04-20",
+      "columna": 4,
+      "numero": 20,
+      "distanciaDetectada": 172,
+      "estado": "libre",
+      "fechaHora": 1786908034178,
+      "ubicacion": {
+        "latitud": -1.01247,
+        "longitud": -79.46767999999999
+      }
+    }
+  }
+}
